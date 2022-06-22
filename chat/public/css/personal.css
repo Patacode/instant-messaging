@@ -1,0 +1,18 @@
+.ball{
+    width:10px;
+    height:10px;
+    border-radius:5px;
+}
+
+.green{
+    background-color: green;
+}
+
+.gray{
+    background-color: gray;
+}
+
+#request{
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
