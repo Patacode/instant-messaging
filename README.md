@@ -1,7 +1,6 @@
 # Instant messaging
 
-This repo contains our secure client/server **instant messaging** system project for
-the SECG4's course.
+This repo consist of a secure client/server **instant messaging** system project.
 
 <details>
   <summary>Table of Contents</summary>
@@ -266,6 +265,4 @@ Here is a simple demo showing you how the project work:
 
 This little project has been made by:
 
-* Maximilien Ballesteros (*56080*)
-* Alexandra Demarteau (*52068*)
-
+* Maximilien Ballesteros
