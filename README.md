@@ -122,6 +122,7 @@ LoadModule rewrite_module modules/mod_rewrite.so
 ```
 
 We also advise you to add the `index.php` value in the available directory indexes:
+
 ```apacheconf
 <IfModule dir_module>
     DirectoryIndex index.html index.php
